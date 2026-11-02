@@ -19,7 +19,8 @@ SnowPro Core · Certified SAFe 6 Agilist · Leading SAFe 6.0
 Agentic AI on enterprise data: building LLM-powered workflows and agents with
 LangChain and LangGraph, and evaluating and monitoring them with LangSmith
 
-### Featured project
-[F1 Speed Circuit Analytics](https://github.com/gitjoydeep/F1SpeedCircuitAnalytics): Formula 1 data analytics
+### Featured projects
+- [AI-Assisted Insurance Claims Processing](https://github.com/gitjoydeep/ai-claims-processing): end-to-end claim email processing with an LLM (Groq) and Pydantic structured output, deterministic Python for policy rules and payouts. 157 tests, 97% coverage
+- [F1 Speed Circuit Analytics](https://github.com/gitjoydeep/F1SpeedCircuitAnalytics): Formula 1 data analytics
 
 [Connect on LinkedIn](https://www.linkedin.com/in/jsarkar07)
